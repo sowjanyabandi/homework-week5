@@ -1,0 +1,28 @@
+{
+  "name": "homework-week5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": " node messages-api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sowjanyabandi/homework-week5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sowjanyabandi/homework-week5/issues"
+  },
+  "homepage": "https://github.com/sowjanyabandi/homework-week5#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^2.4.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "sequelize": "^5.18.2"
+  }
+}
